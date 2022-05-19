@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&family=Open+Sans&family=Roboto&display=swap');
+li {
+    display: inline-block;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 1.4rem;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+header nav {
+    float: right;
+    display: block;
+    margin-top: 18px;
+}
+header h5 {
+    float: left;
+    margin-left: 10px;
+    font-size: 1.5rem;
+}
+header {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    overflow: hidden;
+    background-color: aliceblue;
+    margin-left: -7px;
+}
+main {
+    margin-top: 50px;
+}
+
+.fotomat {
+    background-image: url("https://images.unsplash.com/photo-1500630417200-63156e226754?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNhbWVyYXxlbnwwfDB8MHxibGFja19hbmRfd2hpdGV8&auto=format&fit=crop&w=500");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 200px;
+    padding-bottom: 150px;
+    margin-left: -7px;
+    margin-right: -7px;
+}
+.instant {
+    margin-left: 60px;
+    margin-right: 750px;
+    background-color: green;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    color: white;
+}
+.instant h4 {
+    font-family: "Macondo", cursive;
+    font-size: 2rem;
+}
+.instant h3 {
+    font-family: "Roboto", sans-serif;
+    font-size: 2.5rem;
+    margin-top: -25px;
+}
+.instant p {
+    font-size: 1.2rem;
+    font-family: "Open Sans", sans-serif;
+}
+.container {
+    display: inline-flex;
+    margin-top: 70px;
+}
+.container-1 {
+    background-color: beige;
+    padding: 20px;
+    margin-right: 40px;
+    margin-left: 97px;
+}
+.container-2 {
+    background-color: beige;
+    padding: 20px;
+    margin-left: 40px;
+}
+.container h4 {
+    font-family: "Roboto", sans-serif;
+    font-size: 2rem;
+    color: #535353;
+}
+.container h5 {
+    font-family: "Open Sans", sans-serif;
+    color: #1F1F1F;
+    margin-top: -25px;
+    font-size: 1rem;
+}
+.contain {
+    background-color: #535353;
+    margin-top: 70px;
+    margin-left: -8px;
+    margin-right: -8px;
+    padding-bottom: 50px;
+}
+.contain h4 {
+    padding-top: 80px;
+    font-family: "Roboto", sans-serif;
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+}
+.contain h5 {
+    font-family: "Open Sans", sans-serif;
+    color: white;
+    font-size: 0.9rem;
+    margin-top: -28px;
+    text-align: center;
+}
+.img {
+    margin-top: 80px;
+    margin-left: 60px;
+}
+blockquote p {
+    font-family: "Macondo", cursive;
+    text-align: center;
+    font-size: 2.5rem;
+    color: #535353;
+}
+.quote {
+    margin-top: 80px;
+    padding-bottom: 25px;
+}
+footer {
+    background-color: #868686;
+    padding-top: 10px;
+    padding-bottom: 70px;
+    margin-bottom: -7px;
+    margin-left: -7px;
+    margin-right: -7px;
+}
+footer p {
+    font-family: "Open Sans", sans-serif;
+    font-size: 1 rem;
+    color: white;
+    font-weight: bold;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.first {
+    float: left;
+}
+.second {
+    float: right;
+}
